@@ -107,13 +107,3 @@
         color: whitesmoke;
     }
 }
-@media screen and (max-width:680px){
-	#maincontent{
-		width: auto;
-		float: none;
-	}
-	#sidebar{
-		width: auto;
-		float: none;
-	}
-}
